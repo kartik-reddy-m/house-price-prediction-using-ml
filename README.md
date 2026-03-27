@@ -58,7 +58,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-(Add your deployed link here after deployment)
+Not available yet
 
 ---
 
@@ -72,4 +72,4 @@ streamlit run app.py
 
 ## 🙌 Author
 
-Your Name
+KARTHIK REDDY M
